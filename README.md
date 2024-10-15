@@ -6,7 +6,7 @@ source("https://raw.githubusercontent.com/GaliSuarez/EquipoExpo/refs/heads/main/
 ```
 ---
 Title: "Exposición"<br>
-Author: <br>
+Author: 
         "Angel Sinai Reyes Ferreyra <br>
          Yoselin Castañeda Ayllon <br>
          Dana Yuval Reyes González <br>
