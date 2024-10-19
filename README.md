@@ -15,18 +15,6 @@ Author:
          Oscar  Arciniega Patricio <br>
          Karla Galilea Suárez Esquivel <br>
          Sergio Díaz González <br><br>"
-format: revealjs
-editor: visual
+
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-
-```
-
-<style>
- p {
- text-align: justify;
-}
-</style>
 
